@@ -1,13 +1,19 @@
 # Footer navigation links
 
-- title: Home
+- title: Intro
   url: /
 
-- title: Getting Started
+- title: JGI
   url: /getting-started/
 
-- title: About
+- title: MBL Server
   url: /about/
 
-- title: Terms
+- title: Genome Assembly
+  url: /terms/
+
+- title: Anvi'o
+  url: /terms/
+
+  - title: About
   url: /terms/

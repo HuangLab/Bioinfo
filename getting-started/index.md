@@ -11,8 +11,7 @@ image:
   thumb:
 share: false
 ---
-
-The basics for getting Skinny Bones setup.
+HEELLLOOOOO!!!!!
 
 {% include toc.html %}
 
