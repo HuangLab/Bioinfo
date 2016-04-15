@@ -13,7 +13,7 @@ share: false
 ---
 HEELLLOOOOO!!!!!
 
-{% include toc.html %}
+<!-- {% include toc.html %} -->
 
 ## Installation
 
