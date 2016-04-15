@@ -1,16 +1,26 @@
 # Site navigation links
 
-- title: Getting Started
+- title: Glossary of Bioinformatics
   url: /getting-started/
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Using the MBL Server
   url: /articles/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
-- title: Media
+- title: A Quick Guide to JGI
+  url: /media/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
+
+- title: Genome Assembly
+  url: /media/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
+
+- title: A Guide to Anvi'o
   url: /media/
   excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
   image: 400x250.gif
