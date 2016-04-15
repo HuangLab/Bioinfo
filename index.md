@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: microbiology.jpg
+  feature: header2.jpg
 ---
 
 <div class="tiles">
